@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+numpy
+joblib
+spacy
+torch
+transformers
+scikit-fuzzy
